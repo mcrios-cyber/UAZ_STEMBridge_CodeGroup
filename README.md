@@ -11,3 +11,6 @@ Hunter Copening | Computer Science
 LEVI | COMPUTER SCIENCE
 
 Oscar Gastelum | Cyber Operations (Engineering)
+
+[Seth Perritt](https://github.com/Durtyburd/Durtyburd) | Software Engineering
+
