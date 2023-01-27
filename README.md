@@ -7,3 +7,5 @@ This GitHub repo is a collection of work from a cohort of students in the STEM B
 [Dylan Hermosillo]( https://www.dylanhermosillo.com) | Computer Science
 
 Hunter Copening | Computer Science
+
+LEVI | COMPUTER SCIENCE
