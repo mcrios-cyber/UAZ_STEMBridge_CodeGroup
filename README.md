@@ -9,3 +9,5 @@ This GitHub repo is a collection of work from a cohort of students in the STEM B
 Hunter Copening | Computer Science
 
 LEVI | COMPUTER SCIENCE
+
+Oscar Gastelum | Cyber Operations (Engineering)
