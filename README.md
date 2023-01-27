@@ -5,3 +5,5 @@ This GitHub repo is a collection of work from a cohort of students in the STEM B
 ## Cohort Group
 
 [Dylan Hermosillo]( https://www.dylanhermosillo.com) | Computer Science
+
+Hunter Copening | Computer Science
