@@ -14,3 +14,4 @@ Oscar Gastelum | Cyber Operations (Engineering)
 
 [Seth Perritt](https://github.com/Durtyburd/Durtyburd) | Software Engineering
 
+Matthew Rios | Cyber Operations (Forensics)
